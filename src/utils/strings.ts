@@ -1,0 +1,17 @@
+export default {
+  HOME: 'Home',
+  PROFILE: 'Profile',
+  reviews: 'reviews',
+  followers: 'followers',
+  following: 'following',
+  followed: 'followed',
+  message: 'message',
+  hostDesc: 'AWM host since',
+  languageDesc: 'Speaks',
+  phoneDesc: 'Phone number verified',
+  mailDesc: 'Email verified',
+  adventures: 'Adventures',
+  business: 'business',
+  new: 'new',
+  visitProfile: "Visit Kate's Profile",
+};
